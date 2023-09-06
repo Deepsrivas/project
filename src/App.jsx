@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Divyanshu Srivastav",
-  title: "VLSI Engineer",
+  title: "Electronics & Communication Engineer",
   email: "divyanshusrivastav108@gmail.com",
   gitHub: "Deepsrivas",
   linkedIn: "divyanshu-srivastav/",
