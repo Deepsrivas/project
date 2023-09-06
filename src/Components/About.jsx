@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Divyanshu Srivastav, a final-year ECE undergraduate with a penchant for innovation, aims to forge a career as a VLSI engineer."
+  "I am a final-year ECE undergraduate having penchant for innovation, aims to forge a career as a VLSI engineer."
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
