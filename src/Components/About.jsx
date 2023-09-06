@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/img.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,18 +24,16 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Divyanshu Srivastav, a final-year ECE undergraduate with a penchant for innovation, aims to forge a career as a VLSI engineer. He skillfully utilizes Python, C, and Verilog HDL, merging his coding expertise with a deep passion for semiconductor design."
+  "Divyanshu Srivastav, a final-year ECE undergraduate with a penchant for innovation, aims to forge a career as a VLSI engineer."
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Python", "C++", "Verilog", "HTML", "CSS", "Shell Scripts", "Linux WSL", "Packet Tracer", 
+  "Content Management", "WordPress", 
+  "Microsoft Word", "PowerPoint", "Excel" 
 ];
 
 /**
@@ -44,7 +42,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. My skills comprises Python, C, and Verilog HDL, merging my coding expertise with a deep passion for semiconductor design.";
 
 const About = () => {
   return (

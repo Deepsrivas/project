@@ -34,19 +34,19 @@ const projectList = [
     title: "Frequency divider circuit (100 MHz to 1 Hz)",
     description:
       "In this project, I have made schematic circuit by using TFF as a frequency circuit to achieve 100 MHz to 1 Hz on Xilinx ISE.",
-    url: "",
+    
   },
   {
     title: "Design of 4-bit signed calculator with reset on Xilinx ISE",
     description:
       "I have designed 4-bit signed calculator schematic using combinational and sequential circuits on Xilinx ISE. The calculator can perform signed arithmetic operations.",
-    url: "",
+    
   },
   {
     title: "Bidirectional Transmission of WDM-based XGPON System with SRM and a Post DCF",
     description:
       "We reduced the BER and dispersion in XGPON bidirectional fiber system by designing an SRM on MatLab and with an additional Dispersion Compensation fiber at OLT.",
-    url: "",
+    
   },
   {
     title: "	Designed an Unbiased Digital Electronic Dice Using CD4017 IC",
