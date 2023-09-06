@@ -24,8 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "Divyanshu Srivastav, a final-year ECE undergraduate with a penchant for innovation, aims to forge a career as a VLSI engineer. He skillfully utilizes Python, C, and Verilog HDL, merging his coding expertise with a deep passion for semiconductor design."
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,

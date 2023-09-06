@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Frequency divider circuit (100 MHz to 1 Hz)",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "In this project, I have made schematic circuit by using TFF as a frequency circuit to achieve 100 MHz to 1 Hz on Xilinx ISE.",
+    url: "",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Design of 4-bit signed calculator with reset on Xilinx ISE",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I have designed 4-bit signed calculator schematic using combinational and sequential circuits on Xilinx ISE. The calculator can perform signed arithmetic operations.",
+    url: "",
   },
   {
-    title: "My Resume Site",
+    title: "Bidirectional Transmission of WDM-based XGPON System with SRM and a Post DCF",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "We reduced the BER and dispersion in XGPON bidirectional fiber system by designing an SRM on MatLab and with an additional Dispersion Compensation fiber at OLT.",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "	Designed an Unbiased Digital Electronic Dice Using CD4017 IC",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The project involved building a digital electronic dice on a Printed Circuit Board (PCB) utilizing a counter decade 4017 IC.",
+    url: "https://drive.google.com/file/d/1ep_9xXakdlq_P-4PO4SQPkSftoOPc7Qc/view?usp=drive_link",
   },
 ];
 
