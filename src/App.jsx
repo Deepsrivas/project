@@ -27,8 +27,8 @@ const siteProps = {
   name: "Divyanshu Srivastav",
   title: "VLSI Engineer",
   email: "divyanshusrivastav108@gmail.com",
-  gitHub: "https://github.com/Deepsrivas",
-  linkedIn: "https://www.linkedin.com/in/divyanshu-srivastav/",
+  gitHub: "Deepsrivas",
+  linkedIn: "divyanshu-srivastav/",
 
 };
 
