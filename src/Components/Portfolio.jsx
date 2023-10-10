@@ -31,6 +31,11 @@ const imageAltText = "Electronics Projects";
  */
 const projectList = [
   {
+    title: "	Designed an Unbiased Digital Electronic Dice Using CD4017 IC",
+    description:
+      "The project involved building a digital electronic dice on a Printed Circuit Board (PCB) utilizing a counter decade 4017 IC.",
+    url:"https://drive.google.com/file/d/1ep_9xXakdlq_P-4PO4SQPkSftoOPc7Qc/view?usp=drive_link",
+  },
     title: "Frequency divider circuit (100 MHz to 1 Hz)",
     description:
       "In this project, I have made schematic circuit by using TFF as a frequency circuit to achieve 100 MHz to 1 Hz on Xilinx ISE.",
@@ -48,12 +53,7 @@ const projectList = [
       "We reduced the BER and dispersion in XGPON bidirectional fiber system by designing an SRM on MatLab and with an additional Dispersion Compensation fiber at OLT.",
     
   },
-  {
-    title: "	Designed an Unbiased Digital Electronic Dice Using CD4017 IC",
-    description:
-      "The project involved building a digital electronic dice on a Printed Circuit Board (PCB) utilizing a counter decade 4017 IC.",
-    url: "https://drive.google.com/file/d/1ep_9xXakdlq_P-4PO4SQPkSftoOPc7Qc/view?usp=drive_link",
-  },
+ 
 ];
 
 const Portfolio = () => {
